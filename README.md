@@ -2,6 +2,7 @@
 Stanford Alpaca LLM Cleaned Training Data, appended with prompts and training data from other training sets and educational sources
 
 Training data used/sampled (not exhaustive list):
+
 https://github.com/tatsu-lab/stanford_alpaca
 https://github.com/gururise/AlpacaDataCleaned
 https://github.com/Instruction-Tuning-with-GPT-4
